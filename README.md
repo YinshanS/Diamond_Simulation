@@ -2,7 +2,7 @@
 Matlab simulation for model developed upon Diamond model. Thoughts and derivations can be found at https://github.com/YinshanS/Thoughts-on-Diamond 
 
 
-## Contents:
+## Code files:
 
 ### [ql_u_2s_rf.m](https://github.com/YinshanS/Diamond_Simulation/blob/master/ql_u_2s_rf.m)
 calculates risk-free interest rate corresponding to different
@@ -34,3 +34,7 @@ assumes
 4. Fixed debt amount(if enough for paying back)
 
 and calculates welfare effect and debt amount of the proposed fiscal policy.
+
+## Sample outputs:
+1. Number of Blowup Log U Constant Debt.pdf
+2. Welfare Effect Log U Constant Debt.pdf
